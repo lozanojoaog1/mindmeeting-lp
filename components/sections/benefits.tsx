@@ -44,7 +44,6 @@ export function Benefits() {
         <SectionHeading 
           title="Por que Escolher o MindMeeting?"
           subtitle="Transforme documentação manual em resultados extraordinários com IA"
-          centered
         />
         
         <motion.div 
